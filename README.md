@@ -1,17 +1,19 @@
 # MachineLearningUsingPython
-![image.jpg](image/ml.jpg)<br><br>
+![image.jpg](image/ml head.jpg)<br><br>
+Machine Learning is the study of Computer Algorithms that allow computer programs to automatically improve through experience.
+Machine Learning Algorithms use statistics to find patterns in massive amounts of data, such as numbers, words, images. 
+These data are fed into machine learning algorithm, and, computer learns through this algorithm to provide better predictions in the future.
 
 ## Repository Overview
 This repository contains different Machine Learning Algorithm.
 
 ## Table of Contents
-- [Prediction of winning in European Premier League](#section1)<br>
+- [European Premier League Predictions](#section1)<br>
 
 ___
 <a id=section1></a>
-### [Prediction of winning in European Premier League](./European_Premier_League-Predictions)
-![image.jpg](image/football.jpeg)<br><br>
-- A churn with respect to the Telecom industry, is defined as the percentage of __subscribers moving__ from a specific service to a service provider to another in a period of time.
-- Research shows that the companies have an __avergae churn of 1.9 to 2 percent__ month on month and annualized churn ranging from 10 to 60 percent.
-- An effort to build a model which helps in reducing the churn rate for a telecom company.
-- [Link for the Jupyter notebook](./EuropeanPremierLeaguePredictions/EuropeanPremierLeague_Predictions.ipynb)
+### [European Premier League Predictions](./European_Premier_League-Predictions)
+![image.jpg](image/football.jpeg)<br>.
+- EPL games played between teams as __Home Team and Away Team__ in which classification algorithm is applied to predict the result.
+- Model which is built to Predict the winning of team in EPL.
+- [Link for Jupyter notebook](./EuropeanPremierLeaguePredictions/EuropeanPremierLeague_Predictions.ipynb)
