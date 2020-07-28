@@ -1,5 +1,5 @@
 # MachineLearningUsingPython
-![image.jpeg](image/ml head.jpeg)<br><br>
+![image.jpg](image/ml head.jpg)<br><br>
 
 ## Repository Overview
 This repository contains different Machine Learning Algorithm.
