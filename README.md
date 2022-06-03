@@ -14,7 +14,7 @@ This repository contains different Machine Learning Algorithm.
 
 ___
 <a id=section1></a>
-### [European Premier League Predictions](./European_Premier_League-Predictions)
+### [European Premier League Predictions](./EuropeanPremierLeaguePredictions)
 ![image.jpg](image/football.jpeg)<br>.
 - EPL games played between teams as __Home Team and Away Team__ in which classification algorithm is applied to predict the result.
 - Model which is built to Predict the winning team in European Premier League.
@@ -35,4 +35,4 @@ ___
 
 - Performed EDA on loan data.
 - Predicted loan sanction amount with __Regression model__.
-- [Link for Jupyter notebook](./Prediction of Loan sanction amount.ipynb)
+
