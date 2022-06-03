@@ -31,8 +31,8 @@ ___
 
 ___
 <a id=section3></a>
-### [Loan Sanction Amount Prediction]
+### [Loan Sanction Amount Prediction](./LoanSanctionPrediction)
 
 - Performed EDA on loan data.
 - Predicted loan sanction amount with __Regression model__.
-
+-- [Link for Jupyter notebook](./LoanSanctionPrediction)
