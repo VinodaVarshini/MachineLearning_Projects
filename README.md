@@ -17,3 +17,20 @@ ___
 - EPL games played between teams as __Home Team and Away Team__ in which classification algorithm is applied to predict the result.
 - Model which is built to Predict the winning of team in EPL.
 - [Link for Jupyter notebook](./EuropeanPremierLeaguePredictions/EuropeanPremierLeague_Predictions.ipynb)
+
+___
+<a id=section1></a>
+### [Grocery Store Recommendation]
+
+- Building recommendation system that helps customer for purchasing in a Grocery Store.
+- Helps in increasing the purchase pattern and increasing the profit for the store.
+- Recommendation system built using Apriori Algorithm. 
+- [Link for Jupyter notebook](./GroceryStoreRecommendation/RecommendationSystem_GroceryStore.ipynb)
+
+___
+<a id=section1></a>
+### [Loan Sanction Amount Prediction]
+
+- Performed EDA on loan data.
+- Predicted loan sanction amount with regression model.
+- [Link for Jupyter notebook](./Prediction of Loan sanction amount.ipynb)
