@@ -23,7 +23,7 @@ ___
 ___
 <a id=section2></a>
 ### [Grocery Store Recommendation](./GroceryStoreRecommendation)
-
+![image.jpg](image/groceryimg.jpg)<br>
 - Building recommendation system that helps customer for purchasing in a Grocery Store.
 - Helps in increasing the purchase pattern and increasing the profit for the store.
 - Recommendation system built using __Apriori Algorithm__. 
