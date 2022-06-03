@@ -35,4 +35,4 @@ ___
 
 - Performed EDA on loan data.
 - Predicted loan sanction amount with __Regression model__.
--- [Link for Jupyter notebook](./LoanSanctionPrediction)
+- [Link for Jupyter notebook](./LoanSanctionPrediction)
