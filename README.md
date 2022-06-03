@@ -21,7 +21,7 @@ ___
 - [Link for Jupyter notebook](./EuropeanPremierLeaguePredictions/EuropeanPremierLeague_Predictions.ipynb)
 
 ___
-<a id=section1></a>
+<a id=section2></a>
 ### [Grocery Store Recommendation]
 
 - Building recommendation system that helps customer for purchasing in a Grocery Store.
@@ -30,7 +30,7 @@ ___
 - [Link for Jupyter notebook](./GroceryStoreRecommendation/RecommendationSystem_GroceryStore.ipynb)
 
 ___
-<a id=section1></a>
+<a id=section3></a>
 ### [Loan Sanction Amount Prediction]
 
 - Performed EDA on loan data.
