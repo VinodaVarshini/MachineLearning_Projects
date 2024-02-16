@@ -1,4 +1,4 @@
-# MachineLearningUsingPython
+# MachineLearning
 ![image.jpg](image/ml_top.jpg)<br><br>
 Machine Learning is the study of Computer Algorithms that allow computer programs to automatically improve through experience.
 Machine Learning Algorithms use statistics to find patterns in massive amounts of data, such as numbers, words, images. 
